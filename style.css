@@ -1,0 +1,40 @@
+.prompt_debugger_block {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+
+.prompt_debugger_info {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.prompt_debugger_info p {
+    margin: 5px 0;
+}
+
+.prompt_debugger_info ol, .prompt_debugger_info ul {
+    margin: 5px 0;
+    padding-left: 25px;
+}
+
+.prompt_debugger_info code {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+.checkbox_label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.checkbox_label input[type="checkbox"] {
+    cursor: pointer;
+}
