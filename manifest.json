@@ -1,0 +1,11 @@
+{
+    "display_name": "Prompt Debugger2.0",
+    "loading_order": 13,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Claude",
+    "version": "1.0.0",
+    "homePage": ""
+}
